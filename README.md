@@ -110,7 +110,7 @@ This combined approach provided several advantages:
 
 ## About the Author
 
-Rotimi Akinyele is a cybersecurity leader, ethical hacker, and AI security enthusiast. He's the founder of NaijaSecForce and currently serves as Head of Security at a global fintech platform processing over $600 billion monthly and protecting more than 3 million customers. Rotimi is Nigeria's first OSCE/OSCP, a CISSP, and a Harvard-trained cybersecurity strategist with 15+ years of experience leading red team operations, securing critical systems, and pushing the boundaries of AI in offensive security.
+Rotimi Akinyele is a cybersecurity leader, ethical hacker, and AI security enthusiast. He's the founder of NaijaSecForce and currently serves as Head of Security at a global fintech platform processing over $600 billion monthly and protecting more than 3 million customers. Rotimi is Nigeria's first OSCE/OSCP, a CISSP, and a Harvard-trained cybersecurity strategist with 17+ years of experience leading red team operations, securing critical systems, and pushing the boundaries of AI in offensive security.
 
 He's passionate about using AI to rethink how we break and secure applications — faster, smarter, and more creatively.
 
